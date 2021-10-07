@@ -18,5 +18,7 @@ define('Jawatan' , 'Pengarah');
         dengan ini melantik Encik Ahmad sebagai
         Penolong <?php echo $jawatan;?>.
     </p>
+
+    
 </body>
 </html>
